@@ -1,0 +1,9 @@
+title: "My Science Blog"
+email: "you@example.com"
+description: "A blog about science."
+baseurl: "" # leave this empty for GitHub Pages
+url: "https://yourusername.github.io" # replace with your GitHub Pages URL
+
+# Build settings
+markdown: kramdown
+theme: minima
